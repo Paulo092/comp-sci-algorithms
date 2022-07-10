@@ -1,8 +1,8 @@
-<center>
+<p align="center">
     <img src="./README%20Files/coding.png" width="150">
     <h1>Algoritmos Clássicos da Ciência da Computação</h1>
     Este repositório tem o intuito de juntar algoritmos clássicos da ciência da computação de áreas desde estrutura de dados até computação gráfica, principalmente para fins acadêmicos, ajudando estudantes a entender e utilizar importantes algorítmos em seu dia-a-dia.
-</center>
+</p>
 
 ## 🖥️ Algoritmos
 
