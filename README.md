@@ -1,6 +1,12 @@
 <p align="center">
     <img src="./README%20Files/coding.png" width="150">
-    <h1>Algoritmos Clássicos da Ciência da Computação</h1>
+</p>
+
+<h1 align="center">
+    Algoritmos Clássicos da Ciência da Computação
+</h1>
+
+<p align="center">
     Este repositório tem o intuito de juntar algoritmos clássicos da ciência da computação de áreas desde estrutura de dados até computação gráfica, principalmente para fins acadêmicos, ajudando estudantes a entender e utilizar importantes algorítmos em seu dia-a-dia.
 </p>
 
@@ -33,12 +39,12 @@ Os algorítmos são divididos nas seguintes áreas:
 
 As pastas e arquivos de um algoritmo seguem o seguinte padrão de nomenclatura:
 
-> **(Abreviação da Área) Nome do Algoritmo.extensão** // Para arquivos
+`(Abreviação da Área) Nome do Algoritmo.extensão`  Para arquivos
 
 ou
 
-> **(Abreviação da Área) Nome do Algoritmo** // Para pastas
+`(Abreviação da Área) Nome do Algoritmo` Para pastas
 
-Exemplo:
+**Exemplo:**
 
-> (ED) Fila Circular.c
+`(ED) Fila Circular.c`
