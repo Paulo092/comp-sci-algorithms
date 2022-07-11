@@ -18,6 +18,11 @@
 
 <details>
     <summary>Estrutura de Dados (ED)</summary>
+    <ul>
+        <li><a href="./(ED) Algoritmos de Ordenação/SelectionSort.c">🔁 Selection Sort</a></li>
+        <li><a href="">🚩 Quick Sort</a></li>
+        <li><a href="">🦠 Merge Sort</a></li>
+    </ul>
 </details>
 
 <details>
@@ -37,14 +42,10 @@ Os algorítmos são divididos nas seguintes áreas:
 
 ### 🔠 Nomenclatura
 
-As pastas e arquivos de um algoritmo seguem o seguinte padrão de nomenclatura:
+As pastas de um grupo de algoritmos seguem o seguinte padrão de nomenclatura:
 
-`(Abreviação da Área) Nome do Algoritmo.extensão`  Para arquivos
-
-ou
-
-`(Abreviação da Área) Nome do Algoritmo` Para pastas
+`(Abreviação da Área) Nome do Algoritmo`
 
 **Exemplo:**
 
-`(ED) Fila Circular.c`
+`(ED) Algoritmos de Busca`
