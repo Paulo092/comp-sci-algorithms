@@ -12,13 +12,22 @@
 
 ## 🖥️ Algoritmos
 
+Abaixo estão atalhos para todos os algoritmos separados por área de estudo:
+
 <details>
     <summary>Computação Gráfica (CG)</summary>
+    <ul>
+        <li><h3>Algoritmos de Geração de Retas:</h3></li>
+        <li><a href="./(CG) Algoritmos Geração de Retas/src/Analitico.java">📉 Analítico</a></li>
+        <li><a href="./(CG) Algoritmos Geração de Retas/src/Bresenham.java">📈 Bresenham</a></li>
+        <li><a href="./(CG) Algoritmos Geração de Retas/src/DDA.java">🧠 DDA</a></li>
+    </ul>
 </details>
 
 <details>
     <summary>Estrutura de Dados (ED)</summary>
     <ul>
+        <li><h3>Algoritmos de Ordenação:</h3></li>
         <li><a href="./(ED) Algoritmos de Ordenação/SelectionSort.c">🔁 Selection Sort</a></li>
         <li><a href="">🚩 Quick Sort</a></li>
         <li><a href="">🦠 Merge Sort</a></li>
